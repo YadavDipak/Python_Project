@@ -11,3 +11,5 @@ def generateOTP():
 
 if __name__ == "__main__":
     print("OTP of 5 digits :",generateOTP())
+
+
